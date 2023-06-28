@@ -1,0 +1,22 @@
+div {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+html {
+    line-height: 1.15;
+}
+td, th {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+span {
+    font-size: 10px;
+}
+.total-price {
+    margin: 100px;
+    background-color: aliceblue;    
+}

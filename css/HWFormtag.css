@@ -1,0 +1,22 @@
+div {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+html {
+    line-height: 1.15;
+}
+.main-background {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 300px;
+    background-color: #eee;
+}
+.input {
+    padding: px;
+    font-size: 20px;
+    border: 5px solid black;
+    border-radius: 30px;
+}

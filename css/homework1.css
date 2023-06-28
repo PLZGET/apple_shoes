@@ -1,0 +1,45 @@
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left-menu {
+    width: 80%;
+    float: left;
+}
+.right {
+    width: 20%;
+    float: left;
+}
+.left-top {
+    height: 20%;
+    float: left;
+    margin: 10px;
+}
+.left-bottom {
+    height: 80%;
+    float: left;
+    margin-top: -20px;
+    clear: both;
+}
+.blog-profile {
+    width: 50px;
+    border-radius: 75px;
+    float: left;
+}
+.blog-content {
+    float: left;
+}
+.navbar>li {
+    display: inline-block;
+    width: 60px;
+
+}
+.navbar a {
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    background: #eee;
+    padding: 5px;
+    border-radius: 75px;
+}
